@@ -1,0 +1,67 @@
+* {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 400px;
+    background-color: #000000; 
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+table {
+    border: 2px solid white;
+    border-collapse: collapse;
+	position: center;
+    width: 900px;
+}
+
+h1 {
+    color: white;
+    position: center;
+}
+
+th, tr, td {
+    border: solid 1px #454545;
+    color: #FFFFFF;
+	width: 297px
+}
+
+input{
+    background-color: #454545;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+button, select{
+    color: #FFFFFF;
+    background-color: #454545;
+    border: #000000;
+}
+
+textarea{
+    color: #FFFFFF;
+    background-color: #454545;
+    border: #000000;
+    text-align: left;
+}
+
+a{
+    position: absolute;
+    right: 0.5cm;
+    top: 0cm;
+}
+
+div{
+    position: absolute;
+    top: 1cm;
+    right: 0.75cm;
+}
+
+b{
+    position: absolute;
+    top: 3cm;
+    right: 13.5cm;
+}
